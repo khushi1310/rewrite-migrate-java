@@ -6,6 +6,7 @@
             assertEquals(-3, diff); // String comparison: "abc" vs "def"
         }
     }
+    Solution: Revert to original code
 */
 package org.openrewrite.java.migrate;
 
